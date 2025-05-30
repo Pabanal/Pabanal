@@ -1,0 +1,111 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 May 2025 11:10:22 at https://pabanal.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://pabanal.fr/ -O1 "C:\Mes Sites Web\pabanal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:11:17	Error: 	"Method Not Allowed" (405) at link https://pabanal.fr/xmlrpc.php (from https://pabanal.fr/)
+11:11:59	Warning: 	Retry after error -4 (Connect Error) at link localhost/pabanal/wp-content/uploads/2020/06/oak-texture.jpg (from https://pabanal.fr/wp-content/uploads/custom-css-js/75.css?v=3665)
+11:11:59	Warning: 	Moved Permanently for https://pabanal.fr/?p=22
+11:11:59	Warning: 	File has moved from https://pabanal.fr/?p=22 to https://pabanal.fr/a-propos/
+11:11:59	Warning: 	Moved Permanently for https://pabanal.fr/?p=31
+11:11:59	Warning: 	File has moved from https://pabanal.fr/?p=31 to https://pabanal.fr/contact/
+11:12:11	Warning: 	Moved Permanently for https://pabanal.fr/?p=18
+11:12:11	Warning: 	File has moved from https://pabanal.fr/?p=18 to https://pabanal.fr/tireuse-a-biere/
+11:12:33	Warning: 	Moved Permanently for https://pabanal.fr/?p=419
+11:12:33	Warning: 	File has moved from https://pabanal.fr/?p=419 to https://pabanal.fr/borne-darcade/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=663
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=663 to https://pabanal.fr/lultime-tireuse-a-biere/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=601
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=601 to https://pabanal.fr/le-stick-darcade-sans-fil-pabanal/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=578
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=578 to https://pabanal.fr/plateau-apero/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=547
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=547 to https://pabanal.fr/echiquier/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=327
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=327 to https://pabanal.fr/plateau-hexagonal/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=392
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=392 to https://pabanal.fr/ouverture-de-notre-page-facebook/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=347
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=347 to https://pabanal.fr/decoration-murale-les-trois-monts/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=191
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=191 to https://pabanal.fr/jeu-de-molkky/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=207
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=207 to https://pabanal.fr/boite-a-the/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=34
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=34 to https://pabanal.fr/mise-en-ligne-du-site-web/
+11:12:34	Warning: 	Moved Permanently for https://pabanal.fr/?p=80
+11:12:34	Warning: 	File has moved from https://pabanal.fr/?p=80 to https://pabanal.fr/mentions-legales/
+11:12:34	Warning: 	Retry after error -4 (Connect Error) at link localhost/pabanal/wp-content/uploads/2020/06/oak-texture.jpg (from https://pabanal.fr/wp-content/uploads/custom-css-js/75.css?v=3665)
+11:12:34	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+11:14:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-color-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-config.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-error-msg.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:31	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-file-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-geotag-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-options.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-info.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-osm_image.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-theme-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-widget.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:14:40	Error: 	"Connect Error" (-4) after 2 retries at link localhost/pabanal/wp-content/uploads/2020/06/oak-texture.jpg (from https://pabanal.fr/wp-content/uploads/custom-css-js/75.css?v=3665)
+11:18:51	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-de_DE.mo
+11:19:09	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-es_ES.mo
+11:19:18	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-fr_FR.mo
+11:19:43	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-it_IT.mo
+11:19:44	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-ja_JP.mo
+11:19:44	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-ro_RO.MO
+11:19:44	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-ru_RU.mo
+11:19:44	Warning: 	File not parsed, looks like binary: https://pabanal.fr/wp-content/plugins/osm/languages/OSM-sv_SE.mo
+11:19:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-color-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:19:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-config.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:19:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-error-msg.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:19:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-file-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:19:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-geotag-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:19:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/OSM_PLUGIN_ICONS_URL/mic_black_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/mic_red_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/OSM_PLUGIN_ICONS_URL/mic_red_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/mic_green_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/OSM_PLUGIN_ICONS_URL/mic_green_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/mic_blue_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Error: 	"Not Found" (404) at link https://pabanal.fr/wp-content/plugins/osm/OSM_PLUGIN_ICONS_URL/mic_blue_pinother_02.png (from https://pabanal.fr/wp-content/plugins/osm/osm-marker-tagged-select.php)
+11:20:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-options.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-info.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:10	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-osm_image.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-theme-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm-widget.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:20:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:21:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map/osm-sc-osm_map.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map/)
+11:21:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:21:25	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3_backend.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:25:24	Error: 	"Bad Request" (400) at link https://pabanal.fr/"%s/" (from https://pabanal.fr/wp-content/plugins/osm/languages/OSM-de_DE.po)
+11:25:24	Error: 	"Bad Request" (400) at link https://pabanal.fr/"%s" (from https://pabanal.fr/wp-content/plugins/osm/languages/OSM-ru_RU.po)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-color-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-config.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-error-msg.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-file-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-geotag-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-marker-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-options.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-info.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-sc-osm_image.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-theme-select.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm-widget.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm.php (from https://pabanal.fr/wp-content/plugins/osm/)
+11:25:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map/osm-sc-osm_map.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map/)
+11:25:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:25:27	Warning: 	Retry after error 500 (Internal Server Error) at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3_backend.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:29:54	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm_map/osm-sc-osm_map.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map/)
+11:29:54	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:29:54	Error: 	"Internal Server Error" (500) after 2 retries at link https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/osm-sc-osm_map_v3_backend.php (from https://pabanal.fr/wp-content/plugins/osm/osm_map_v3/)
+11:30:19	Error: 	"Not Found" (404) at link https://pabanal.fr/OpenLayers.js (from https://pabanal.fr/wp-content/plugins/osm/js/OL/2.13.1/readme.md)
+11:30:19	Error: 	"Not Found" (404) at link https://pabanal.fr/lib/OpenLayers.js (from https://pabanal.fr/wp-content/plugins/osm/js/OL/2.13.1/readme.md)
+11:31:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://pabanal.fr/wp-content/plugins/osm/js/OSM/openlayers/?C=D;O=D (from https://pabanal.fr/wp-content/plugins/osm/js/OSM/openlayers/?C=D;O=A)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 54 seconds : 1152 links scanned, 1075 files written (37570153 bytes overall) [34016231 bytes received at 25887 bytes/sec], 5633994 bytes transferred using HTTP compression in 360 files, ratio 25%, 6.1 requests per connection
+(28 errors, 72 warnings, 0 messages)
